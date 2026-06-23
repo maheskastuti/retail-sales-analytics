@@ -27,3 +27,9 @@ SQL-based retail analytics project simulating real-world sales data analysis.
 2. Run retail_sales_schema.sql first
 3. Run retail_sales_data.sql second
 4. Run retail_sales_analysis.sql to see all reports
+
+## Excel Dashboard
+- Retail_Sales_Customer_Analytics.xlsx contains 5 sheets:
+  - Customers, Products, Orders & Payments datasets
+  - Analysis sheet with VLOOKUP, RANK formulas, and city-wise revenue chart
+  - Dashboard with live KPI cards (Total Revenue, Orders, Customers, Avg Order Value)
